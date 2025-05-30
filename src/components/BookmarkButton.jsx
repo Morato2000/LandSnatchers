@@ -1,6 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
-import bookmarkProperty from "@/app/actions/BookmarkProperty";
+import bookmarkProperty from "@/app/actions/bookmarkProperty";
 import checkBookmarkStatus from "@/app/actions/checkBookmarkStatus";
 import { toast } from "react-toastify";
 import { FaBookmark } from "react-icons/fa";
